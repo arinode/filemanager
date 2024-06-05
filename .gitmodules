@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/arinode/filemanager_frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/arinode/filemanager_backend
